@@ -18,3 +18,5 @@ WEEKLY PROJECT & REVISION, Submitted the whole week's work in a single compiled 
 # Week Two: SQL
 ## Week Two Day one:
 Created database, tables and inserted data. Used basic functions and did some quick analysis.
+## Week Two Day Two:
+Practised Different Filtering, aggregration and grouping functions in sql over yesterday's database.
