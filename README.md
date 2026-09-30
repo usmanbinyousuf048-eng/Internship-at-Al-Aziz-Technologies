@@ -20,3 +20,5 @@ WEEKLY PROJECT & REVISION, Submitted the whole week's work in a single compiled 
 Created database, tables and inserted data. Used basic functions and did some quick analysis.
 ## Week Two Day Two:
 Practised Different Filtering, aggregration and grouping functions in sql over yesterday's database.
+## Week Two Day Three:
+Covered SQL JOINs, multi-table queries, subqueries, CTEs, UNION/UNION ALL, and relational data analysis using customers, orders, products, and sales tables.
