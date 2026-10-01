@@ -22,3 +22,5 @@ Created database, tables and inserted data. Used basic functions and did some qu
 Practised Different Filtering, aggregration and grouping functions in sql over yesterday's database.
 ## Week Two Day Three:
 Covered SQL JOINs, multi-table queries, subqueries, CTEs, UNION/UNION ALL, and relational data analysis using customers, orders, products, and sales tables.
+## Week Two Day Four:
+Covered Windows Functions, running totals, time based analysis, query optimization basics, made some reusable analytical queries.
