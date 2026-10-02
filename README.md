@@ -24,3 +24,5 @@ Practised Different Filtering, aggregration and grouping functions in sql over y
 Covered SQL JOINs, multi-table queries, subqueries, CTEs, UNION/UNION ALL, and relational data analysis using customers, orders, products, and sales tables.
 ## Week Two Day Four:
 Covered Windows Functions, running totals, time based analysis, query optimization basics, made some reusable analytical queries.
+## Week Two Day Five:
+Performed business insights and analytical SQL queries to identify trends, patterns, and key findings from the dataset.
