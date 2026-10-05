@@ -26,3 +26,7 @@ Covered SQL JOINs, multi-table queries, subqueries, CTEs, UNION/UNION ALL, and r
 Covered Windows Functions, running totals, time based analysis, query optimization basics, made some reusable analytical queries.
 ## Week Two Day Five:
 Performed business insights and analytical SQL queries to identify trends, patterns, and key findings from the dataset.
+
+# Week Three: Python, Pandas and EDA
+## Week Three Day One:
+Covered Python fundamentals for data analysis and practiced data processing using lists, dictionaries, loops, functions, and list comprehensions.
