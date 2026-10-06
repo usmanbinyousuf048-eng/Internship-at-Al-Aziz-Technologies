@@ -30,3 +30,5 @@ Performed business insights and analytical SQL queries to identify trends, patte
 # Week Three: Python, Pandas and EDA
 ## Week Three Day One:
 Covered Python fundamentals for data analysis and practiced data processing using lists, dictionaries, loops, functions, and list comprehensions.
+## Week Three Day Two:
+Learned about NumPy fundamentals and practised Pandas data manipulation using a real-world Titanic dataset, including filtering, grouping, aggregation, sorting, and feature creation.
