@@ -34,3 +34,5 @@ Covered Python fundamentals for data analysis and practiced data processing usin
 Learned about NumPy fundamentals and practised Pandas data manipulation using a real-world Titanic dataset, including filtering, grouping, aggregation, sorting, and feature creation.
 ## Week Three Day Three: 
 Practiced data cleaning with Pandas by handling missing values, standardizing text, checking duplicates and outliers, creating features, and validating the cleaned dataset.
+## Week Three Day Five:
+Performed exploratory data analysis on the Titanic dataset using Pandas, Matplotlib, and Seaborn, covering descriptive statistics, distributions, survival analysis, correlation, and outlier detection.
