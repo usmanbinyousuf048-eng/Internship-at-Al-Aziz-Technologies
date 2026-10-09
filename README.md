@@ -36,3 +36,5 @@ Learned about NumPy fundamentals and practised Pandas data manipulation using a 
 Practiced data cleaning with Pandas by handling missing values, standardizing text, checking duplicates and outliers, creating features, and validating the cleaned dataset.
 ## Week Three Day Four:
 Performed exploratory data analysis on the Titanic dataset using Pandas, Matplotlib, and Seaborn, covering descriptive statistics, distributions, survival analysis, correlation, and outlier detection.
+## Week Three Day Five:
+Completed a Titanic dataset analysis project using Jupyter Notebook, Pandas, NumPy, Matplotlib, and Seaborn, including data cleaning, exploratory analysis, visualizations, business insights, and documentation.
