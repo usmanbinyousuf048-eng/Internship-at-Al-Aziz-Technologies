@@ -34,11 +34,13 @@ Covered Python fundamentals for data analysis and practiced data processing usin
 Learned about NumPy fundamentals and practised Pandas data manipulation using a real-world Titanic dataset, including filtering, grouping, aggregation, sorting, and feature creation.
 ## Week Three Day Three: 
 Practiced data cleaning with Pandas by handling missing values, standardizing text, checking duplicates and outliers, creating features, and validating the cleaned dataset.
-
-# Week Four: POWER BI, POWER QUERY & DATA MODELING
-## Week Four Day One:
-Explored PowerBI, getting familiar with basic terminologies and functions, used a synthetic dataset and did a basic visualisation to explore basic functions. 
 ## Week Three Day Four:
 Performed exploratory data analysis on the Titanic dataset using Pandas, Matplotlib, and Seaborn, covering descriptive statistics, distributions, survival analysis, correlation, and outlier detection.
 ## Week Three Day Five:
 Completed a Titanic dataset analysis project using Jupyter Notebook, Pandas, NumPy, Matplotlib, and Seaborn, including data cleaning, exploratory analysis, visualizations, business insights, and documentation.
+
+# Week Four: POWER BI, POWER QUERY & DATA MODELING
+## Week Four Day One:
+Explored PowerBI, getting familiar with basic terminologies and functions, used a synthetic dataset and did a basic visualisation to explore basic functions. 
+## Week Four Day Two:
+Practiced Power Query for data cleaning and transformation, including handling missing values, removing duplicates, changing data types, merging, and building a repeatable data-cleaning workflow.
