@@ -46,3 +46,5 @@ Explored PowerBI, getting familiar with basic terminologies and functions, used 
 Practiced Power Query for data cleaning and transformation, including handling missing values, removing duplicates, changing data types, merging, and building a repeatable data-cleaning workflow.
 ## Week Four Day Three:
 Created a Power BI star schema data model featuring 1-to-many relationships, single-direction filter flows, and a DAX date dimension.
+## Week Four Day Four:
+Developed a BI Dashboard leveraging custom DAX measures (DIVIDE, DISTINCTCOUNT), time intelligence trends, and matrix hierarchies built on a star schema model from day 3.
