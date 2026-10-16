@@ -48,3 +48,5 @@ Practiced Power Query for data cleaning and transformation, including handling m
 Created a Power BI star schema data model featuring 1-to-many relationships, single-direction filter flows, and a DAX date dimension.
 ## Week Four Day Four:
 Developed a BI Dashboard leveraging custom DAX measures (DIVIDE, DISTINCTCOUNT), time intelligence trends, and matrix hierarchies built on a star schema model from day 3.
+## Week Four Day Five:
+Build and compiled a Power BI sales analytics project with documentation, star schema architecture, and executive dashboard deliverables.
