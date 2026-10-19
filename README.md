@@ -52,5 +52,5 @@ Developed a BI Dashboard leveraging custom DAX measures (DIVIDE, DISTINCTCOUNT),
 Build and compiled a Power BI sales analytics project with documentation, star schema architecture, and executive dashboard deliverables.
 
 # Week Five: ADVANCED ANALYTICS, DAX & DATA STORYTELLING 
-## Week Four Day One:
+## Week Five Day One:
 Wrote advanced DAX calculations encompassing context transition, filter removal, row-level iteration, and percentage share measures.
