@@ -54,3 +54,5 @@ Build and compiled a Power BI sales analytics project with documentation, star s
 # Week Five: ADVANCED ANALYTICS, DAX & DATA STORYTELLING 
 ## Week Five Day One:
 Wrote advanced DAX calculations encompassing context transition, filter removal, row-level iteration, and percentage share measures.
+## Week Five Day Two:
+Implemented time-intelligence analytics in Power BI, visualizing rolling averages via trend lines and tracking MoM growth variance across customer matrix hierarchies.
