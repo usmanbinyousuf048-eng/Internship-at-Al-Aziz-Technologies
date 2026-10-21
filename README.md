@@ -56,3 +56,5 @@ Build and compiled a Power BI sales analytics project with documentation, star s
 Wrote advanced DAX calculations encompassing context transition, filter removal, row-level iteration, and percentage share measures.
 ## Week Five Day Two:
 Implemented time-intelligence analytics in Power BI, visualizing rolling averages via trend lines and tracking MoM growth variance across customer matrix hierarchies.
+## Week Five Day Three:
+Completed advanced Pandas analysis, feature engineering, correlation and outlier analysis concepts, and a Linear Regression model using Scikit-learn to compare actual vs predicted values and evaluate performance using R².
