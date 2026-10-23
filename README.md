@@ -60,3 +60,5 @@ Implemented time-intelligence analytics in Power BI, visualizing rolling average
 Completed advanced Pandas analysis, feature engineering, correlation and outlier analysis concepts, and a Linear Regression model using Scikit-learn to compare actual vs predicted values and evaluate performance using R².
 ## Week Five Day Four:
 Completed a Power BI sales dashboard with KPI cards, DAX measures, sales and profit visualizations, date and product slicers, and business-focused data storytelling and dashboard design.
+## Week Five Day Five:
+Completed an end-to-end sales analytics solution using Python, Pandas, Scikit-learn, Power BI, and DAX, including predictive analytics, KPI analysis, an executive dashboard, business insights, and data-driven recommendations using synthetic sales data.
